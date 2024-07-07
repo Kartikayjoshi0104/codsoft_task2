@@ -1,2 +1,2 @@
 # codsoft_task2
-"Calculator" is inside this repository.
+"Calculator" program is inside this repository.
